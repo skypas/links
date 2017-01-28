@@ -20,3 +20,8 @@ erik java https://github.com/er1ck/java-harjutuseksam/tree/master/src
 other
 http://pastebin.com/kMGFGtVc
 
+
+27 test kikilips maatriks https://github.com/marilyn7/Test/blob/master/Test/src/Kikilips.java
+
+
+27 test javafx joon https://github.com/marilyn7/Test/blob/master/Test/src/Joon.java
